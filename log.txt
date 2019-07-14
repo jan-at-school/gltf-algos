@@ -1,0 +1,80 @@
+/home/arifullahjan/digibaad/gltftest/transformations.py:1926: UserWarning: No module named '_transformations'
+  warnings.warn(str(err))
+/home/arifullahjan/.local/share/virtualenvs/gltftest-buNnd-rO/lib/python3.7/site-packages/pygltflib/__init__.py:594: UserWarning: padding based on bufferView.byteStride is unsupported and may result in corrupted output. Please open an issue at https://gitlab.com/dodgyville/pygltflib/issues
+  f"padding based on bufferView.byteStride is unsupported and may result in corrupted output. "
+/home/arifullahjan/.local/share/virtualenvs/gltftest-buNnd-rO/lib/python3.7/site-packages/pygltflib/__init__.py:661: UserWarning: This file contains a binary blob loaded from a .glb file, and this will be saved to a .bin file next to the json file.
+  "This file contains a binary blob loaded from a .glb file, "
+array([[1., 0., 0., 0.],
+       [0., 1., 0., 0.],
+       [0., 0., 1., 0.],
+       [0., 0., 0., 1.]])
+[
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    136.860107421875,
+    -64.45372009277344,
+    -36.179630279541016,
+    1.0
+]
+New Matrix [[  1.           0.           0.           0.        ]
+ [  0.           1.           0.           0.        ]
+ [  0.           0.           1.           0.        ]
+ [136.86010742 -64.45372009 -36.17963028   1.        ]]
+array([[  1.        ,   0.        ,   0.        ,   0.        ],
+       [  0.        ,   1.        ,   0.        ,   0.        ],
+       [  0.        ,   0.        ,   1.        ,   0.        ],
+       [136.86010742, -64.45372009, -36.17963028,   1.        ]])
+[
+    0.9995650053024292,
+    0.029493184760212898,
+    0.0,
+    0.0,
+    -0.029493184760212898,
+    0.9995650053024292,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    -45.315460205078125,
+    -24.617263793945312,
+    -26.320369720458984,
+    1.0
+]
+[-264.4925537109375, 85.59744262695312, 0.0]
+[-242.49256896972656, 107.58116149902344, 85.0]
+array([[  1.        ,   0.        ,   0.        ,   0.        ],
+       [  0.        ,   1.        ,   0.        ,   0.        ],
+       [  0.        ,   0.        ,   1.        ,   0.        ],
+       [136.86010742, -64.45372009, -36.17963028,   1.        ]])
+[
+    -1.0,
+    8.979318677493353e-11,
+    0.0,
+    0.0,
+    -8.979318677493353e-11,
+    -1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    -294.67718505859375,
+    73.97987365722656,
+    16.17963218688965,
+    1.0
+]
+[-43.13071060180664, -36.973846435546875, -46.5]
+[63.35246658325195, 56.026153564453125, 46.5]
